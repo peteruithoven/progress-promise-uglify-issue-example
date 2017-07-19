@@ -1,1 +1,7 @@
-progress-promise-uglify-issue-example
+ProgressPromise Uglify issue example
+====================================
+
+```
+npm install
+npm run build
+```
